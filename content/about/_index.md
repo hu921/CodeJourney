@@ -15,6 +15,7 @@ For me, technology isn't just a tool; it's a playground where creativity and inn
 Life, to me, is an ongoing masterclass. I eagerly embrace challenges that thrust me beyond my comfort zone. Please count me in, whether it's mastering fresh technology, untangling complex problems, or embarking on a culinary escapade with exotic ingredients!
 
 
+
 ##### I've also write on the following site
 - [journipod](https://www.journipod.com)
 - [Medium](https://medium.com/@husara)
