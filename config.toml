@@ -1,7 +1,7 @@
 baseURL = "hu921.github.io/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "The Pen Behind the Notebook"
+title = "The Fingers Behind the Page"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
