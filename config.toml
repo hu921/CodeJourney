@@ -1,7 +1,7 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "hu921.github.io/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Lightbi"
+title = "The Pen Behind the Notebook"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -33,8 +33,8 @@ Lastmod = false
 rss = false 
 pagination = "10"
 hideAuthor = false
-authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
-description="Your can add your website description here."
+authorInfo = "A curious nomad with a passion for technology, a love for travel and food, and a penchant for building things from bricks and bits"
+description="Welcome to my digital diary, where I share my thoughts, life, and passions with the world."
 
 
 [sitemap]
@@ -43,16 +43,16 @@ description="Your can add your website description here."
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  threads = "username"
-  linkedin = "username"
-  github = "username"
+  name = "Sara Hu"
+  website = "https://isarahu.com"
+  email = "husara@gmail.com"
+  #facebook = "username"
+  instagram = "rebel_gozila"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  linkedin = "husara"
+  #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -78,20 +78,20 @@ description="Your can add your website description here."
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
+#[[menu.main]]
+#    name = "Notes"
+#    url = "/notes/"
+#    weight = 2
 
 [[menu.main]]
     name = "Tags"
     url = "/tags/blog/"
     weight = 3
 
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
+#[[menu.main]]
+#    name = "Collections"
+#    url = "/collections/"
+#    weight = 4
 
 [[menu.main]]
     name = "About"
