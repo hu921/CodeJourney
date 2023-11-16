@@ -19,7 +19,7 @@ Paginate = 6
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
+dateFormat = "2023-02-02"
 comments = false
 readingTime = false
 wordCount = false
