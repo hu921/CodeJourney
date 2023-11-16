@@ -19,7 +19,7 @@ Paginate = 6
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-dateFormat = "2023-02-02"
+dateFormat = "January 2, 2023"
 comments = false
 readingTime = false
 wordCount = false
@@ -75,28 +75,33 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "https://isarahu.com"
     weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 2
 
 #[[menu.main]]
 #    name = "Notes"
 #    url = "/notes/"
-#    weight = 2
+#    weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "/tags/blog/"
+#    weight = 4
 
 #[[menu.main]]
 #    name = "Collections"
 #    url = "/collections/"
-#    weight = 4
+#    weight = 5
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 6
 
 
 

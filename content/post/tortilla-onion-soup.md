@@ -1,6 +1,6 @@
 ---
 title: 'Tortilla Onion Soup'
-date: Mon, 13 Nov 2017 04:50:45 +0000
+date: 2017-11-13
 draft: true
 tags: ['Cuisine', 'food', 'simple life', 'travel']
 ---
