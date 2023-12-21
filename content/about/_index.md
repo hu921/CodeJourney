@@ -10,7 +10,6 @@ title: "Sara Hu"
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-DRMTXSLF5D');
 </script>
 </head>
