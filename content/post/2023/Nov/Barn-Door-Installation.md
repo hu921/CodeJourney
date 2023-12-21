@@ -7,7 +7,17 @@ image_size: 300
 Description  : 自行安裝穀倉門的冒險....
 draft: false
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DRMTXSLF5D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DRMTXSLF5D');
+</script>
+</head>
 你是否準備好聽一個關於DIY家居裝修的瘋狂故事了嗎？想像一下：一位新手，只憑藉YouTube教程和一個想法，踏上了自己在家中安裝一扇時尚穀倉門的使命。你可能會問，到底會發生什麼事呢？親愛的讀者，請坐下，我將回顧我在自行安裝穀倉門的領域中，從茫然無知到勝利的荒謬旅程。
 
 **野心的揭示**

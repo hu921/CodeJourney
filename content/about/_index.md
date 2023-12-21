@@ -3,7 +3,17 @@ type : "tags"
 layout : "about"
 title: "Sara Hu"
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DRMTXSLF5D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DRMTXSLF5D');
+</script>
+</head>
 Hey there, welcome to my digital space!
 
 I'm a tech nomad navigating the realms of writing and front-end coding. By day, I'm a seasoned Technical Program Manager in Technology, Robotics, and Software Development, always hungry for fresh challenges. My mind's a whirlwind of ideas, fueled by an insatiable curiosity and an unwavering passion for exploration.

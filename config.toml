@@ -1,4 +1,4 @@
-baseURL = "hu921.github.io/"
+baseURL = "hu921.github.io"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "The Fingers Behind the Page"
@@ -104,5 +104,3 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
     weight = 6
 
 
-
-theme = 'lightbi-hugo'

@@ -7,7 +7,17 @@ image_size: 300
 Description  : 'I am not an expert of Intermittent Fasting; however,.......'
 draft: false
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DRMTXSLF5D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DRMTXSLF5D');
+</script>
+</head>
 I am not an expert of Intermittent Fasting; however, I started or inspired by Marcus, my brother-in-law. It really worked on him.  I don't know how to start this, but I am going to record what I eat for now. It's been a week, I only lose for 4.4 pounds (2 kg around). Here's my IF 16/8 which means only eat during 8 hours (around 12pm-7pm) and not eat anything besides coffee, tea, water during 16 hours. (I will keep update...) 
 
 **Day 1** 

@@ -1,10 +1,23 @@
 ---
 title: 'Tortilla Onion Soup'
 date: 2017-11-13
-draft: true
-tags: ['Cuisine', 'food', 'simple life', 'travel']
+tags: ["Cuisine", "food"]
+image : "/coverimg/barndoor-0.jpg"
+image_size: 300
+Description  : Homemade onion soup, best soup during winter...
+draft: false
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DRMTXSLF5D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DRMTXSLF5D');
+</script>
+</head>
 Tortilla Onion Soup
 
 I love cooking in my own way, and I don’t want to buy all the ingredients that I might not be using in the future. So here’s my recipe of French onion soup. I called tortilla onion soup. You can try your own recipe and share back with me would be awesome.  
