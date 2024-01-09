@@ -8,10 +8,8 @@ draft: false
 ---
 
 
-![APPL Stock Closing Price!](/img/posts/stock_0.jpg "APPL Closing Price History")
+![APPL Stock Closing Price!](/assets/stock_0.jpg "APPL Closing Price History")
 
-![APPL Stock Closing Price!](/images/stock_0.jpg "APPL Closing Price History")
+![APPL Stock Closing Price!](/assets/images/appl-stock.jpg "APPL Closing Price History")
 
-![APPL Stock Closing Price!](/about/author-about.jpg "APPL Closing Price History")
-
- {{ $image := resources.Get "/img/stock_0.jpg" }}
+> blockquote

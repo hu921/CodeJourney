@@ -22,14 +22,14 @@ selfHosted = true
 mainSections = ["post","posts"]
 dateFormat = "January 2, 2006"
 comments = false
-readingTime = false
+readingTime = true
 wordCount = false
 useHLJS = true
 socialShare = false
 delayDisqus = false
 showRelatedPosts = true
 summaryLength  = "9"
-gcse = false
+gcse = true
 Lastmod = false
 rss = false 
 pagination = "10"
@@ -74,35 +74,35 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
   #weibo = "username"
   #slack = "username"
 
-[[menu.main]]
-    name = "Home"
-    url = "/about"
-    weight = 1
+#[[menu.main]]
+ #   name = "Home"
+#  url = "/about"
+#    weight = 1
 
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
 #[[menu.main]]
 #    name = "Notes"
 #    url = "/notes/"
-#    weight = 4
+#    weight = 3
 
 #[[menu.main]]
 #    name = "Tags"
 #    url = "/tags/blog/"
-#    weight = 5
+#    weight = 4
 
 #[[menu.main]]
 #    name = "Collections"
 #    url = "/collections/"
-#    weight = 6
+#    weight = 5
 
 
 
