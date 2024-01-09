@@ -20,7 +20,7 @@ Paginate = 6
 selfHosted = true
 #mainSections = ["about, About"]
 mainSections = ["post","posts"]
-dateFormat = "January 2, 2023"
+dateFormat = "January 2, 2006"
 comments = false
 readingTime = false
 wordCount = false
@@ -74,35 +74,35 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
   #weibo = "username"
   #slack = "username"
 
-#[[menu.main]]
-#    name = "Home"
-#    url = "https://isarahu.com"
-#    weight = 
+[[menu.main]]
+    name = "Home"
+    url = "/about"
+    weight = 1
 
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 32
+    weight = 3
 
 #[[menu.main]]
 #    name = "Notes"
 #    url = "/notes/"
-#    weight = 3
+#    weight = 4
 
 #[[menu.main]]
 #    name = "Tags"
 #    url = "/tags/blog/"
-#    weight = 4
+#    weight = 5
 
 #[[menu.main]]
 #    name = "Collections"
 #    url = "/collections/"
-#    weight = 5
+#    weight = 6
 
 
 

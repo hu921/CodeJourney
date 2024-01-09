@@ -97,12 +97,8 @@ p1t.xlabel('Date', fontsize=18), p1t.ylabel('Close Price USD($)', fontsize=18)
 p1t.show()
 ```
 Result:
-![APPL Stock Closing Price!](/img/ai-stock-figure.jpg "img")
 
-<figure>
-  <img src="/img/ai-stock-figure.jpg">
-  <figcaption><h4>An elephant at sunset</h4></figcaption>
-</figure>
+![APPL Stock Closing Price!](/img/stock_0.jpg "APPL Closing Price History")
 
 - Next, create a new dataframe with only the "Close column", convert dataframe to numpy array.
 - I also want to get the number of rows to train the model on.
