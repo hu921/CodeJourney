@@ -1,7 +1,7 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "hu921.github.io"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Lightbi"
+title = "Sara Hu."
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -11,31 +11,31 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "G-DRMTXSLF5D"
 enableRobotsTXT = true
 enableGitInfo = false
 Paginate = 6
 
 [Params]
 selfHosted = true
+#mainSections = ["about, About"]
 mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
+dateFormat = "January 2, 2023"
 comments = false
 readingTime = false
 wordCount = false
 useHLJS = true
-socialShare = true
-delayDisqus = true
+socialShare = false
+delayDisqus = false
 showRelatedPosts = true
 summaryLength  = "9"
 gcse = false
-lastmod = false
-rss = false
+Lastmod = false
+rss = false 
 pagination = "10"
-hideAuthor = false
-authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
-description="Your can add your website description here."
-previewCardImagePlacement = "bottom"
+hideAuthor = true
+authorInfo = "A curious nomad with a passion for technology, a love for travel and food, and a penchant for building things from bricks and bits"
+description="Welcome to my digital diary, where I share my thoughts, life, and passions with the world."
 
 
 [sitemap]
@@ -44,16 +44,16 @@ previewCardImagePlacement = "bottom"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  threads = "username"
-  linkedin = "username"
-  github = "username"
+  name = "Sara Hu"
+  website = "https://isarahu.com"
+  email = "husara@gmail.com"
+  #facebook = "username"
+  instagram = "rebel_gozila"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  linkedin = "husara"
+  github = "hu921"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -74,30 +74,36 @@ previewCardImagePlacement = "bottom"
   #weibo = "username"
   #slack = "username"
 
+#[[menu.main]]
+#    name = "Home"
+#    url = "https://isarahu.com"
+#    weight = 
+
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
-
-[[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 32
+
+#[[menu.main]]
+#    name = "Notes"
+#    url = "/notes/"
+#    weight = 3
+
+#[[menu.main]]
+#    name = "Tags"
+#    url = "/tags/blog/"
+#    weight = 4
+
+#[[menu.main]]
+#    name = "Collections"
+#    url = "/collections/"
+#    weight = 5
+
 
 
 
