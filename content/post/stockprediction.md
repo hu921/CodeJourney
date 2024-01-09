@@ -3,7 +3,6 @@ title: AI/ML Project - Stock Price Prediction Using LSTM Neural Networks
 date: 2023-11-10
 tags: 
 image : "/coverimg/Neural_Network.png"
-image_size: 150
 Description  : This program uses an artificial recurrent neural network...
 draft: false
 ---
