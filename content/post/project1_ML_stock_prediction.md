@@ -2,8 +2,8 @@
 title: AI/ML Project - Stock Price Prediction Using LSTM Neural Networks
 date: 2023-11-10
 tags: 
-image : "/coverimg/Neural_Network.png"
-Description  : This program uses an artificial recurrent neural network...
+image : "/coverimg/img_p1_0.png"
+Description  : "This program uses an artificial recurrent neural network..."
 draft: false
 ---
 
@@ -34,8 +34,6 @@ This project showcases my skills in machine learning and data analysis by predic
 - **Data Preprocessing:** Addressed challenges in cleaning and normalizing financial time-series data.
 - **Model Tuning:** Explored various hyperparameters to optimize the LSTM model for stock price prediction.
 - **Visual Analysis:** Gained insights into the importance of visualizing data trends in financial analysis.
-
----
 
 ---
 

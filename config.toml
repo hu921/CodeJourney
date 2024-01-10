@@ -80,7 +80,7 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
 #    weight = 1
 
 [[menu.main]]
-    name = "Home"
+    name = "Projects/Home"
     url = "/"
     weight = 1
 
