@@ -8,8 +8,26 @@ draft: false
 ---
 
 ---
+## Summary
+This course project with the Minnesota Department of Transportation from Google Business Intelligence Analytic Specification Course, I have acquired a wide range of valuable skills and knowledge that have greatly contributed to my professional growth. Here's what I learned from working on this project:
+- Business Process and Requirements
+- Sharing Insights with Stakeholders
+- Stakeholder Management
+- Cross-Functional Team Dynamics
+- Asking Effective Questions
+- ETL (Extraction, Transformation, and Loading)
+- Data Transformation and Management
+- Database Optimization
+- Dashboarding and Reporting
+- Effective Communication
+- Data Insights
+- Tools such as Google Dataflow and BigQuery for data process, Tableau for visualization, sheets and slides for collaboration and presentation
 
-#### Overview
+In summary, this project was a valuable opportunity to apply a wide array of technical and soft skills to solve real-world problems. It allowed me to contribute to the cMinnesota Department of Transpostartion's data-driven decision-making process and make a positive impact on traffic management, safety, and commuter experience.
+
+---
+
+## Project Overview
 The Minnesota Department of Transportation has approached us with a critical project: the development of a comprehensive dashboard to monitor traffic patterns effectively. The primary objective is to gain a deep understanding of traffic volume variations throughout the year, under various weather conditions, and during holidays. This invaluable insight will empower The Minnesota Department of Transportation to make data-driven decisions for infrastructure planning and ensure a seamless driving experience for commuters.
 
 ---
@@ -51,18 +69,6 @@ The Minnesota Department of Transportation has approached us with a critical pro
 #### Project Work Files
 - [**Presentation Slides**](https://docs.google.com/presentation/d/1LX2D38BidOJPWxo8RNd9ykS8o-ImbaXQXV0Acq7fO1Q/edit?usp=sharing)
 - [**Dashboard**](https://public.tableau.com/views/MinnesotaTrafficVolumeDashboard_16904147865170/MetroInterstateTrafficVolumeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
----
-
-**Skills gain from the course:**
-
-- **Business Process and Requirements**, Sharing insights with Stakeholders, Stakeholder Management, Cross-Functional Team Dynamics, Asking Effective Questions
-
-- **ETL** (Exxtraction, Transformation and Loading), Data transformation, **Data Management**, Database Optimization
-
-- **Dashboarding and Reporting**, Effective Communication, **Data Visualization**, Data Insights
-
-- Tools: **Google Dataflow and BigQuery, Tableau Software**, Google Sheet, Google Slide
 
 ---
 

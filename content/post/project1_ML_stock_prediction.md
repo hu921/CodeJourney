@@ -7,12 +7,30 @@ Description  : "This program uses an artificial recurrent neural network..."
 draft: false
 ---
 
-#### Project Overview
+## Summary
+In this project, I have showcased my skills in machine learning and data analysis by utilizing a Long Short Term Memory (LSTM) neural network to predict the closing 
+stock price of Apple Inc. This project not only demonstrates my ability to work with  financial data but also highlights my proficiency in advanced machine learning 
+techniques.
+
+Throughout the project, I encountered several challenges and gained valuable insights:
+
+- **Data Preprocessing:** I addressed challenges related to cleaning and normalizing financial time-series data, essential for accurate model training.
+
+- **Model Tuning:** I explored various hyperparameters to optimize the LSTM model for stock price prediction, ensuring the best possible accuracy.
+
+- **Visual Analysis:** Visualizing data trends played a crucial role in understanding the intricacies of financial analysis, making it easier to interpret and communicate results effectively.
+
+Project Outcome  
+Successfully developed a model that predicts the closing price of Apple Inc. stock with a reasonable degree of accuracy. The prediction for the closing stock price of Apple Inc. for a specific date in the future (2023-12-15) was ($198.11)
+
+---
+
+## Project Overview
 This project showcases my skills in machine learning and data analysis by predicting the closing stock price of Apple Inc. using an LSTM neural network. The project demonstrates my ability to work with financial data and advanced machine learning techniques.
 
 ---
 
-#### Key Features
+Key Features
 
 - **Data Source:** Utilizes historical stock data from Yahoo Finance, accessed via the **`yfinance`** library.
 - **Data Preprocessing:** Implements data cleaning and normalization to prepare the dataset for the LSTM model.
@@ -21,7 +39,7 @@ This project showcases my skills in machine learning and data analysis by predic
 
 ---
 
-#### Technical Stack
+Technical Stack
 
 - **Python Libraries:** **`numpy`**, **`pandas`**, **`yfinance`**, **`keras`**, **`sklearn`**, **`matplotlib`**
 - **Machine Learning:** Long Short Term Memory (LSTM) neural network for time-series prediction.
@@ -29,7 +47,7 @@ This project showcases my skills in machine learning and data analysis by predic
 
 ---
 
-#### Challenges and Learnings
+Challenges and Learnings
 
 - **Data Preprocessing:** Addressed challenges in cleaning and normalizing financial time-series data.
 - **Model Tuning:** Explored various hyperparameters to optimize the LSTM model for stock price prediction.
@@ -37,8 +55,10 @@ This project showcases my skills in machine learning and data analysis by predic
 
 ---
 
-#### Let me walkthru my steps
-Description: This program uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price of a corporation (Apple Inc.) using the past 60 day stock price. 
+## Code Walkthrough
+
+Description:  
+This program uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price of a corporation (Apple Inc.) using the past 60 day stock price. 
 
 ---
 
@@ -381,28 +401,3 @@ Name: Close, dtype: float64
 ```
 **We got 198.110001**. 
 
----
-
-### Conclusion Summary
-In this project, I have showcased my skills in machine learning and data analysis by utilizing a Long Short Term Memory (LSTM) neural network to predict the closing stock price of Apple Inc. This project not only demonstrates my ability to work with financial data but also highlights my proficiency in advanced machine learning techniques.
-
-Key features of the project include:
-
-**Data Source:** Historical stock data from Yahoo Finance was accessed using the yfinance library.
-
-**Data Preprocessing:** Data cleaning and normalization were performed to prepare the dataset for training the LSTM model.
-
-**Model Architecture:** An LSTM neural network, well-suited for time-series data, was employed for stock price prediction.
-
-**Visualization:** Data visualization techniques using matplotlib were employed to visualize stock price trends and model performance.
-
-Throughout the project, I encountered several challenges and gained valuable insights:
-
-**Data Preprocessing:** I addressed challenges related to cleaning and normalizing financial time-series data, essential for accurate model training.
-
-**Model Tuning:** I explored various hyperparameters to optimize the LSTM model for stock price prediction, ensuring the best possible accuracy.
-
-**Visual Analysis:** Visualizing data trends played a crucial role in understanding the intricacies of financial analysis, making it easier to interpret and communicate results effectively.
-
-#### Project Outcome
-Successfully developed a model that predicts the closing price of Apple Inc. stock with a reasonable degree of accuracy. This project highlights my ability to apply machine learning techniques to real-world financial data.
