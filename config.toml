@@ -8,7 +8,7 @@ pygmentsStyle = "trac"
 #pygmentsUseClasses = true
 #pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
+pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 googleAnalytics = "G-DRMTXSLF5D"
@@ -80,24 +80,24 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
 #    weight = 1
 
 [[menu.main]]
-    name = "Projects/Home"
+    name = "Home"
     url = "/"
     weight = 1
 
-#[[menu.main]]
-#    name = "Projects"
-#    url = "/collections/"
-#    weight = 2
+[[menu.main]]
+   name = "Projects"
+    url = "/collections/"
+    weight = 3
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
-#[[menu.main]]
-#    name = "Notes"
-#    url = "/notes/"
-#    weight = 4
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 2
 
 #[[menu.main]]
 #    name = "Tags"

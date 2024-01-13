@@ -4,7 +4,7 @@ date: 2023-09-21
 tags: 
 image : "/coverimg/img_p2_0.png"
 Description  : "An analysis insight of traffic patterns on our interstate highways..."
-draft: true
+draft: false
 ---
 
 ---
