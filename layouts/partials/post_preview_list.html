@@ -3,6 +3,13 @@
         <!-- card h-100 bg-faded-light -->
         <div class="card fc-ED1B2F">
             <div class="card-body">
+                <!--
+                {{ with partial "get_image" . }}
+                <img src="{{ ( .Resize "500x" ).RelPermalink }}" alt="{{ .Title }}"
+                    class="card-img-top img-fluid lazyload">
+                {{ end }}
+                -->
+
                 <h4 class="post-title">{{ .Title }}</h4>
                 {{ if .Params.subtitle }}
                 <h3 class="post-subtitle">

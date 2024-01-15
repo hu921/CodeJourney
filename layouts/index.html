@@ -1,13 +1,39 @@
 {{ define "main" }}
 
-<div class="intro-header no-img text-center">
-  <h1>Hi, I am Sara Hu!</h1>
-    <p>This website, where I share thoughts on a variety of topics and projects.
-     <br> Visit 'About' section to know me better!!
-    </p>
+
+<div class="intro-header img-center text-center" style="font-family: 'Your Font Name', sans-serif; font-size: 14px;">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- Image Container -->
+      <div class="col-md-6">
+        {{ $image := resources.Get "/coverimg/sara-about-rounded.png" }}
+        <img src="{{ $image.RelPermalink }}" alt="Image of Author" class="d-block mx-auto img-fluid img-rounded img-200">
+      </div>
+      <!-- Text Container -->
+      <div class="col-md-4">
+        <h1 style="font-family: 'Your Heading Font Name', sans-serif; font-size: 36px;">Hi, I am Sara Hu!</h1>
+        <p style="font-family: 'Your Font Name', sans-serif; font-size: 18px;">
+          Welcom to my website - a space where I explore and share insights on diverse topics and personal projects.
+        <p style="font-family: 'Your Font Name', sans-serif; font-size: 18px;">
+          Curious to learn more? Please visit the <a href="/about">About</a> section and get to know me better.
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 
+
+
+<!-- 
+<div class="intro-header no-img text-center" style="font-family: 'Your Font Name', sans-serif; font-size: 14px;">
+  <h1 style="font-family: 'Your Heading Font Name', sans-serif; font-size: 28px;">Hi, I am Sara Hu!</h1>
+  <p style="font-family: 'Your Font Name', sans-serif; font-size: 14px;">
+    This website, where I share thoughts on a variety of topics and projects. Visit 'About' section to know me better!!
+  </p>
 </div>
+</div>
+-->
+
 <!--
 <div class="container" role="main">
   <div class="row">
@@ -22,7 +48,6 @@
     {{ range $pag.Pages }}
     {{ partial "post_preview_top_img_cards" . }}
     {{ end }}
-
 
   </div>
 </div>

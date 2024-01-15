@@ -95,7 +95,7 @@ description="Welcome to my digital diary, where I share my thoughts, life, and p
     weight = 4
 
 [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "/post/"
     weight = 2
 

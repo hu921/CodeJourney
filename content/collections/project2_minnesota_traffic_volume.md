@@ -1,9 +1,10 @@
 ---
-title: BI Course Project - Dashboard and Reporting
+title: Minnesota Interstate Traffic Volume Project
+subtitle : "BI Course Project"
 date: 2023-09-21
 tags: 
 image : "/coverimg/img_p2_0.png"
-Description  : "An analysis insight of traffic patterns on our interstate highways..."
+Description  : " "
 draft: false
 ---
 
@@ -72,4 +73,4 @@ The Minnesota Department of Transportation has approached us with a critical pro
 
 ---
 
-> If you are interested to know about my experience and why I persue Business Intelligence Course, you can read my post on Medium [Pursuing Data Analytics and AI: My Journey as a Technical Program Manager](https://medium.com/@husara/pursuing-data-analytics-and-ai-my-journey-as-a-technical-program-manager-7a5e133e036f)
+> If you are interested to know about my experience and why I persue Business Intelligence Course, you can read my post on Medium [Pursuing Data Analytics and AI: My Journey as a Technical Program Manager](/post/pursuing_data_analytics)
